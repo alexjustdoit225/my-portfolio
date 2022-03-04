@@ -1,8 +1,8 @@
+import { Route } from 'react-router-dom';
 import { Switch } from "react-router-dom"
 import { ThemeProvider } from "styled-components"
 import { lightTheme } from "./components/Themes"
 import GlobalStyle from "./globalStyles"
-
 
 // Components
 import Main from './components/Main'; 
