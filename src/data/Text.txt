@@ -1,0 +1,58 @@
+
+
+Fonts
+
+----------------------------------------------
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Karla:wght@300;400;500;600&family=Pacifico&family=Source+Sans+Pro:wght@400;600;700&family=Ubuntu+Mono:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+
+----------------------------------------------
+
+
+Skills
+----------------------------------------------
+I love to create designs that are user-friendly, immersive, and clean.
+Logo/Graphic Design
+Web Design
+Game Development
+TOOLS
+Figma
+
+I value business or brand for which i'm creating, thus i enjoy bringing new ideas to life.
+SKILLS
+HTML, CSS, Js, React, Redux, Bootstrap, Tailwind, Firebase etc.
+
+TOOLS
+VScode, Github, Codepen etc.
+
+----------------------------------------------
+
+About Text
+
+----------------------------------------------
+I'm a front-end developer located in Louisiana. When creating a website I enjoy focusing on simplicity, beauty, and immersion.
+
+I'm interested in front-end game development, web development, and mobile app development. I look forward to creating projects in all of these areas. I'm a freelancer. I love to read and learn new things.
+
+I believe in making art that captures people's attention. Connect with me via social links.
+----------------------------------------------
+
+
+Theme
+----------------------------------------------
+    body:"#FCF6F4",
+    text:"#000000",
+    fontFamily:"'Source Sans Pro', sans-serif",
+    bodyRgba : "252, 246, 244",
+    textRgba:"0,0,0",
+
+
+----------------------------------------------
+
+
+
+
+
+
