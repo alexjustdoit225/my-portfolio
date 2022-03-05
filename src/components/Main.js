@@ -1,10 +1,18 @@
 import React from 'react'
 
+
+
+const MainContainer = styled.div`
+background: ${props => props.theme.body};
+width: 100vw; 
+height: 100vh; 
+`
+
 const Main = () => {
     return (
-        <div>
+        <MainContainer>
             Main Component/Page
-        </div>
+        </MainContainer>
     )
 }
 
