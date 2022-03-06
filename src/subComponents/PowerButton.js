@@ -22,11 +22,9 @@ justify-content: center;
 align-items:center;
 z-index:3;
 
-cursor: pointer;
-transition-duration: 0.8s;  
+cursor: pointer;  
 
 &:hover{
-    transform: scale(1.5);
     background-color: #25db4d;
     box-shadow: 0 0 8px 6px rgba(0,255,0,0.2);
 }
