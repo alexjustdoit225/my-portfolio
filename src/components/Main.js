@@ -1,6 +1,7 @@
 import React from 'react'
 import styled from 'styled-components'
 import PowerButton from '../subComponents/PowerButton'
+import SocialIcons from '../subComponents/SocialIcons'
 
 
 const MainContainer = styled.div`
@@ -25,7 +26,8 @@ const Main = () => {
     return (
         <MainContainer>
             <Container>
-                <PowerButton />
+            <PowerButton />
+            <SocialIcons  />
             </Container>
         </MainContainer>
     )
