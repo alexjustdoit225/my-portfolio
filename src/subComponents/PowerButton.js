@@ -40,7 +40,7 @@ const PowerButton = () => {
   return (
     <motion.div
     initial={{transform:"scale(1)"}}
-    animate={{scale:[1,1,1,1]}}
+    animate={{scale:[1  ,1,1,1]}}
     transition={{type:'spring', duration:1, delay:1}}
     >
     <Power>
