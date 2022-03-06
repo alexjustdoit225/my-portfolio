@@ -67,5 +67,21 @@ const SocialIcons = (props) => {
 
             <Line color={props.theme}
 
+initial={
+    {
+        height:0
+    }
+}
+animate={{
+    height: '8rem'
+}}
+transition={{
+    type:'spring', duration:1, delay:0.8
+}}
+            />
+        </Icons>
+    )
+}
 
+export default SocialIcons
 
